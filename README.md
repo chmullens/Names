@@ -1,7 +1,7 @@
 # Names
  TDI Winter 2021 capstone project, "Hey I know that name!"
 
-Note: I would not recommend opening the name_pronunciation_storage folder on a machine, there are about 100,000 files in it. 
+Note: I would not recommend opening the name_pronunciation_storage folder in a file browser, there are about 100,000 files in it. 
 
 Project outline:
 1. Business objective:
