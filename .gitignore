@@ -1,2 +1,4 @@
 .DS_Store
 Thumbs.db
+NONGIT/*
+.ipynp_checkpoints/*
